@@ -34,7 +34,6 @@ logs/*
 # ✅ データ・テンプレート
 # ========================
 data/*.xlsx
-templates/tweet_template.txt
 
 # ========================
 # ✅ Dockerなど実行関連
